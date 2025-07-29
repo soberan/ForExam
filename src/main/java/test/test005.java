@@ -2,7 +2,7 @@ package test;
 
 import java.util.Scanner;
 
-public class test05 {
+public class test005 {
     public static void main(String[] args) {
         // please define the JAVA input here. For example: Scanner s = new Scanner(System.in);
         // please finish the function body here.
@@ -27,6 +27,7 @@ public class test05 {
 }
 
 /**
+ * 5.N进制小数
  * 题目描述
  * 编写程序实现将任意10进制正小数m转换成n进制的正小数，小数点后保留10位小数。
  *

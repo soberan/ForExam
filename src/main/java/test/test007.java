@@ -2,7 +2,7 @@ package test;
 
 import java.util.Scanner;
 
-public class test07 {
+public class test007 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         String[] strs = in.nextLine().split(" ");
@@ -14,6 +14,7 @@ public class test07 {
     }
 }
 /**
+ * 7.Words
  * 题目描述
  * 每个句子由多个单词组成，句子中的每个单词的长度都可能不一样，我们假设每个单词的长度Ni为该单词的重量，你需要做的就是给出整个句子的平均重量V。
  *

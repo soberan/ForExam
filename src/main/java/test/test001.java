@@ -2,7 +2,7 @@ package test;
 
 import java.util.Scanner;
 
-public class test01 {
+public class test001 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         while (in.hasNextInt()) {
@@ -16,6 +16,7 @@ public class test01 {
     }
 }
 /**
+ * 1.A + B Problem
  * 题目描述
  * Calculate A + B，and give me the answer!
  *
